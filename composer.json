@@ -1,5 +1,5 @@
 {
-    "name": "angle/common/fiftyonedegrees-bundle",
+    "name": "angle/fiftyonedegrees-bundle",
     "type": "symfony-bundle",
     "description": "A simple Symfony2 bundle for the API for FiftyOneDegrees mobile detection.",
     "keywords": ["FiftyOneDegrees"],
